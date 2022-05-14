@@ -1,1 +1,4 @@
-Developer x Graphiste Discord
+🖌️ Graphiste and 💻 Developer.
+💻 Language: JS, C++, html, python (+-)
+📚 Learn: Javascript x Python
+✒️ Development Teacher
