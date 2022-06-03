@@ -33,14 +33,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Getting Started with MongoDB &amp; Mongoose](https://discord.gg/xCEMnzpBpk)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
