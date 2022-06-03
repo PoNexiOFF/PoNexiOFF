@@ -3,8 +3,8 @@
 ## I'm a Developer and Teacher for Discord Development!!
 
 - 🔭 Check out my VS Code course: [Repositories](https://github.com/PoNexiOFF?tab=repositories)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning Javascript and Python
+- 👯 I’m looking to create a fast game
 - 🥅 2022 Goals: Pass certify on discord
 
 ### Languages and Tools:
