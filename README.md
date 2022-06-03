@@ -35,7 +35,7 @@
   <summary>📍 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ✏️ Commits to [#1] Milltan Discord Bot (v.1.0.0 Pré-relase)
+1. ✏️ Commits to [#1] Milltan Discord Bot (v.1.0.0 Pre-relase)
 <!--END_SECTION:activity-->
 
 </details>
@@ -44,6 +44,6 @@
   <summary>📘 GitHub Stats</summary>
 
   <img align="left" alt="PoNexi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PoNexiOFF&show_icons=true&hide_border=false&title_color=08A7F1&icon_color=7FD6FF&bg_color=09131B&text_color=ffffff&border_color=5879FF" />
-  <img align="left" alt="PoNexi's GitHub Stats" src=(https://github-readme-stats.vercel.app/api/top-langs/?username=PoNexiOFF)](https://github.com/PoNexiOFF/github-readme-stats)
+  <img align="left" alt="PoNexi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?top-langs/?username=PoNexiOFF" />
   
 </details>
