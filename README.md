@@ -41,7 +41,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>📘 GitHub Stats</summary>
 
   <img align="left" alt="PoNexi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PoNexiOFF&show_icons=true&hide_border=false&title_color=08A7F1&icon_color=7FD6FF&bg_color=09131B&text_color=ffffff&border_color=5879FF" />
 
