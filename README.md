@@ -1,6 +1,6 @@
 # Hi there, I'm PoNexi 👋 
 
-## I'm a Developer and Teacher for Discord Development!!
+## I'm a little Developer !!
 
 - 🔭 Check out my VS Code course: [Repositories](https://github.com/PoNexiOFF?tab=repositories)
 - 🌱 I’m currently learning Javascript and Python
