@@ -1,4 +1,4 @@
-# Hi there, I'm PoNexi 👋 
+# Hi there, I'm Ponexi 👋 
 
 ## I'm a little Developer !!
 
