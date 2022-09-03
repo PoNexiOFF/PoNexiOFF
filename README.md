@@ -1,11 +1,8 @@
-# Hi there, I'm Ponexi 👋 
+# Ponexi - 2021 -> 2022
 
-## I'm a little Developer !!
+## 
 
 - 🔭 Check out my VS Code course: [Repositories](https://github.com/PoNexiOFF?tab=repositories)
-- 🌱 I’m currently learning Javascript and Python
-- 👯 I’m looking to create a fast game
-- 🥅 2022 Goals: Pass certify on discord
 
 ### Languages and Tools:
 
@@ -36,8 +33,6 @@
   
 <!--START_SECTION:activity-->
 1. ✏️ Commits to [#1] Milltan Discord Bot (v.1.0.0 Pre-relase)
-2. ✏️ Commits to [#2] Milltan Discord Bot (v.1.05 Pre-relase + patchnote v26)
-3. ✏️ Commits to [#2] Folco Discord Bot (final update + final patchnote)
 <!--END_SECTION:activity-->
 
 </details>
