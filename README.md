@@ -37,6 +37,7 @@
 <!--START_SECTION:activity-->
 1. ✏️ Commits to [#1] Milltan Discord Bot (v.1.0.0 Pre-relase)
 2. ✏️ Commits to [#2] Milltan Discord Bot (v.1.05 Pre-relase + patchnote v26)
+3. ✏️ Commits to [#2] Folco Discord Bot (final update + final patchnote)
 <!--END_SECTION:activity-->
 
 </details>
