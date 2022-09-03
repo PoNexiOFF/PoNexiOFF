@@ -5,7 +5,6 @@
 - 🔭 Check out my VS Code course: [Repositories](https://github.com/PoNexiOFF?tab=repositories)
 - 📚 Javascript Developer
 <br />
-
 ---
 
 <br />
