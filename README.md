@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ponexioff&show_icons=true&theme=dark&locale=en&layout=compact" alt="ponexioff" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ponexioff&show_icons=true&locale=en&theme=dark" alt="ponexioff" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ponexioff&show_icons=true&locale=en&theme=dark&icon_color=FFAE16" alt="ponexioff" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ponexioff&theme=dark" alt="ponexioff" /></p>
