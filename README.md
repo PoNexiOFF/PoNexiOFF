@@ -32,7 +32,7 @@
   <summary>📍 Project for 2022</summary>
   
 <!--START_SECTION:activity-->
-1. ✏️ Release v1 of Korbo!
+1. ✏️ Release v1 of [Korbo](https://github.com/PoNexiOFF?tab=repositories)!
 <!--END_SECTION:activity-->
 
 </details>
