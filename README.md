@@ -29,10 +29,10 @@
 <br />
 
 <details>
-  <summary>📍 Recent GitHub Activity</summary>
+  <summary>📍 Project for 2022</summary>
   
 <!--START_SECTION:activity-->
-1. ✏️ Commits to [#1] Milltan Discord Bot (v.1.0.0 Pre-relase)
+1. ✏️ Release v1 of Korbo!
 <!--END_SECTION:activity-->
 
 </details>
