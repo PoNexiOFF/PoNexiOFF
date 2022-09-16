@@ -15,8 +15,6 @@
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoNexiOFF&layout=compact&theme=black)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ponexioff&show_icons=true&locale=en&theme=dark&icon_color=FFAE16" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ponexioff&theme=dark" alt="ponexioff" /></p>
