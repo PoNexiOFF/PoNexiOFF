@@ -4,15 +4,14 @@
 <h1 align="center">PoNexi</h1>
 <div id="badges" align="center">
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="PoNexi"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ponexioff&label=Profile%20views&color=0e75b6&style=flat-square" alt="ponexioff" /> </p>
 <h3 align="center">A JavaScript Developer from discord !</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ponexioff&label=Profile%20views&color=0e75b6&style=flat-square" alt="ponexioff" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
