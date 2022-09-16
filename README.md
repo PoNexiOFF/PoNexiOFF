@@ -17,4 +17,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoNexiOFF&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ponexioff&show_icons=true&locale=en&theme=dark&icon_color=FFAE16" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ponexioff)](https://github.com/anuraghazra/github-readme-stats)
