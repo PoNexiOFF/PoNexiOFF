@@ -15,7 +15,7 @@
 ---
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=PoNexiOFF&show_icons=true&theme=black" alt="ponexioff" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoNexiOFF" alt="ponexioff" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ponexioff&show_icons=true&locale=en&theme=dark&icon_color=FFAE16" /></p>
 
