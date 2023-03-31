@@ -1,4 +1,4 @@
-<h1 align="center">PoNexi</h1>
+<h1 align="center">Ponexi</h1>
 <div id="badges" align="center">
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
