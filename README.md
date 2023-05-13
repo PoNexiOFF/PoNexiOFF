@@ -21,5 +21,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoNexiOFF&layout=compact&theme=dark)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ponexioff&theme=dark)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-![coding stats](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/PoNexiOFF/interval:30_days&label=coding%20stats%20last%2030d)
