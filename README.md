@@ -26,9 +26,6 @@
   </a>
 </div>
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=PoNexiOFF&layout=donut&theme=dark)](https://github.com/PoNexiOFF)
-[![](https://github-readme-stats.vercel.app/api?username=PoNexiOFF&show_icons=false&theme=dark&)](https://github.com/PoNexiOFF)
-
 <p align="center">
     <a href="https://github-readme-activity-graph.cyclic.app/graph?username=vikichand&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true" title="Activity Graph">
         <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PoNexiOFF&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
