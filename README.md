@@ -22,7 +22,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoNexiOFF&layout=donut&theme=dark" alt="YouTube Badge"/>
   </a>
   <a href="https://github.com/PoNexiOFF">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=PoNexiOFF&show_icons=false&theme=dark&" alt="Twitter Badge"/>
   </a>
 </div>
 
