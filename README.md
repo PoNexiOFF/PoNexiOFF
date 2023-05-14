@@ -17,5 +17,5 @@
 
 <h1 align="center">⭐ Github Stats</h1>
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/PoNexiOFF)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=PoNexiOFF&layout=donut&theme=dark)](https://github.com/PoNexiOFF)
 [![](https://github-readme-stats.vercel.app/api?username=PoNexiOFF&show_icons=false&theme=dark&)](https://github.com/PoNexiOFF)
