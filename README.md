@@ -31,6 +31,7 @@
   </a>
 </div>
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PoNexiOFF)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
     <a href="https://github-readme-activity-graph.cyclic.app/graph?username=vikichand&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true" title="Activity Graph">
