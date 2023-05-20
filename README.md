@@ -33,7 +33,7 @@
 
 <p align="center">
     <a href="https://github.com/PoNexiOFF" title="Activity Graph">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ponexi&theme=dark&layout=compact" alt="Activity Graph" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Ponexi&theme=dark&layout=compact" alt="Activity Graph" />
     </a>
 </p>
 
