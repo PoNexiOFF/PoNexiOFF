@@ -17,11 +17,11 @@ Games/App Developer, Front-End Novice Developer, Mastering javascript.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 
-## 🌟 Featured Projects
-
-- **[Project 1](#)** - Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Repo](#)
-- **[Project 2](#)** - Cras vel ultricies arcu. Aliquam erat volutpat. [Repo](#)
-- **[Project 3](#)** - Phasellus vitae ornare ligula. [Repo](#)
+<!--## 🌟 Featured Projects-->
+<!---->
+<!--- **[Project 1](#)** - Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Repo](#)-->
+<!--- **[Project 2](#)** - Cras vel ultricies arcu. Aliquam erat volutpat. [Repo](#)-->
+<!--- **[Project 3](#)** - Phasellus vitae ornare ligula. [Repo](#)-->
 
 ## 📊 GitHub Stats
 
