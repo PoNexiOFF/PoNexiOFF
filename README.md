@@ -26,7 +26,8 @@
 > ✎ Current Project: <br> &nbsp; &nbsp; * [School Calendar Website](https://github.com/PoNexiOFF/SchoolCalendarWebsite) <br>
 &nbsp; &nbsp; * [???](#) <br>
 
-[![Discord](https://img.shields.io/badge/Join%20us%20on%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/U2GGSTQNzg)
+<br>
+> [![Discord](https://img.shields.io/badge/Join%20us%20on%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/U2GGSTQNzg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
