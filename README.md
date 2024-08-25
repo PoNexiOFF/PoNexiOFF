@@ -24,10 +24,4 @@
 ✔  How to reach me: [ponexi.mailpro@gmail.com](mailto:ponexi.mailpro@gmail.com) <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <img src="https://github-readme-stats.vercel.app/api?username=PoNexiOFF&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt="Your GitHub Stats">
-  <br/>
 <br>
