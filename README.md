@@ -5,7 +5,7 @@
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Games/App+Developer;Front/Back-End+Novice+Developer;Mastering+Javascript" > 
 </p>
 
 
