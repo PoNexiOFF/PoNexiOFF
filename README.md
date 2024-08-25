@@ -32,4 +32,5 @@
 <br>
 <a href="https://github.com/PoleftusInteractive/Atenerve-src">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoNexiOFF&repo=SchoolCalendarWebsite&theme=discord_old_blurple&border_color=00000000" alt="pin2"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PoNexiOFF&repo=SchoolCalendarWebsite&theme=discord_old_blurple&border_color=00000000" alt="pin3"/>
 </a>
