@@ -1,42 +1,40 @@
-# 👋 Hello, I'm Ponexi
 
-## 👨‍💻 About Me
+<h1 align="center">
+ 👋 Hi, I'm Ponexi!
+</h1>
+ 
 
-Games/App Developer, Back-End Novice Developer, Mastering javascript.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer" > 
+</p>
 
-<!--- 🔭 I’m currently working on **[Your Project Name](#)**.-->
-- 🌱 I’m currently learning **[C#](#)**.
-- 📫 How to reach me: [ponexi.mailpro@gmail.com](mailto:ponexi.mailpro@gmail.com).
 
-## 🛠️ Technologies & Tools
+</br> 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+<a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<!--## 🌟 Featured Projects-->
-<!---->
-<!--- **[Project 1](#)** - Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Repo](#)-->
-<!--- **[Project 2](#)** - Cras vel ultricies arcu. Aliquam erat volutpat. [Repo](#)-->
-<!--- **[Project 3](#)** - Phasellus vitae ornare ligula. [Repo](#)-->
+</br>
 
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoNexiOFF&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=ambient_gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoNexiOFF&layout=compact&hide_border=true&theme=ambient_gradient)
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<!--## 📝 Latest Blog Posts-->
-<!---->
-<!--- [Blog Post 1](#)-->
-<!--- [Blog Post 2](#)-->
-<!-- [Blog Post 3](#)-->
+>✔  I’m currently working on freelancer job  <br>
+✔  I’m currently learning Everything related with software engineering .. <br>
+✔  All of my projects are available at https://github.com/MahmoudMiehob <br>
+✔  I regularly write articles on : https://www.facebook.com/profile.php?id=100010194910703 <br>
+✔  Ask me about php,laravel framework and all about learning IT in albaath university <br>
+✔  How to reach me: <br> &nbsp; &nbsp; * [Facebook-@mahmoudmiehob](https://www.facebook.com/profile.php?id=100010194910703) <br>
+                         &nbsp; &nbsp; * [Email-@mahmoudmiehob](mahmoudmiehob@gmail.com) <br>
+                         &nbsp; &nbsp; * [linkedIn-@mahmoudmiehob](https://www.linkedin.com/in/mahmoud-miehob-937064187) <br>
+✔  Know about my experiences : https://www.linkedin.com/in/mahmoud-miehob-937064187 <br>
 
----
 
-### 🌐 Connect with Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/YourProfile)-->
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YourProfile)
-[![Website](https://img.shields.io/badge/-Website-FF7139?logo=firefox&logoColor=white&style=flat-square)](https://yourwebsite.com)
 
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt="Your GitHub Stats">
+  <br/>
+<br>
