@@ -30,7 +30,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<a href="https://github.com/PoNexiOFF" align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PoNexiOFF&repo=SchoolCalendarWebsite&theme=discord_old_blurple&border_color=00000000" alt="pin2"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PoNexiOFF&repo=SchoolCalendarWebsite&theme=discord_old_blurple&border_color=00000000" alt="pin3"/>
-</a>
+<p align="center">
+ <a href="https://github.com/PoNexiOFF" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoNexiOFF&repo=SchoolCalendarWebsite&theme=discord_old_blurple&border_color=00000000" alt="pin2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoNexiOFF&repo=SchoolCalendarWebsite&theme=discord_old_blurple&border_color=00000000" alt="pin3"/>
+ </a>
+</p>
