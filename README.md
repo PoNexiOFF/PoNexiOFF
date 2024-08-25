@@ -21,7 +21,7 @@
 
 >✔  I’m currently learning C# .. <br>
 ✔  All of my projects are available at https://github.com/PoNexiOFF <br>
-✔  How to reach me: <br> &nbsp; &nbsp; * [Email](ponexi.mailpro@gmail.com) <br>
+✔  How to reach me: [ponexi.mailpro@gmail.com](mailto:ponexi.mailpro@gmail.com) <br>
 ✔  Know about my experiences : https://www.linkedin.com/in/mahmoud-miehob-937064187 <br>
 
 
