@@ -23,7 +23,7 @@
 ✔  All of my projects are available at https://github.com/PoNexiOFF <br>
 ✔  How to reach me: [ponexi.mailpro@gmail.com](mailto:ponexi.mailpro@gmail.com) <br>
 
-✎ Current Project: <br> &nbsp; &nbsp; * [School Calendar Website](https://github.com/PoNexiOFF/SchoolCalendarWebsite)
+> ✎ Current Project: <br> &nbsp; &nbsp; * [School Calendar Website](https://github.com/PoNexiOFF/SchoolCalendarWebsite)
 &nbsp; &nbsp; * [???](#)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
