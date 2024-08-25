@@ -30,11 +30,11 @@ Games/App Developer, Front-End Novice Developer, Mastering javascript.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoNexiOFF&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=ambient_gradient)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoNexiOFF&layout=compact&hide_border=true&theme=ambient_gradient)
 
-## 📝 Latest Blog Posts
-
-- [Blog Post 1](#)
-- [Blog Post 2](#)
-- [Blog Post 3](#)
+<!--## 📝 Latest Blog Posts-->
+<!---->
+<!--- [Blog Post 1](#)-->
+<!--- [Blog Post 2](#)-->
+<!-- [Blog Post 3](#)-->
 
 ---
 
