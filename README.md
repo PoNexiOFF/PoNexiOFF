@@ -1,6 +1,4 @@
-# 👋 Hello, I'm [Your Name]
-
-![Banner Image](https://via.placeholder.com/1200x300)
+# 👋 Hello, I'm Ponexi
 
 ## 👨‍💻 About Me
 
