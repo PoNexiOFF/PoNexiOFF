@@ -19,14 +19,9 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
->✔  I’m currently working on freelancer job  <br>
-✔  I’m currently learning Everything related with software engineering .. <br>
-✔  All of my projects are available at https://github.com/MahmoudMiehob <br>
-✔  I regularly write articles on : https://www.facebook.com/profile.php?id=100010194910703 <br>
-✔  Ask me about php,laravel framework and all about learning IT in albaath university <br>
-✔  How to reach me: <br> &nbsp; &nbsp; * [Facebook-@mahmoudmiehob](https://www.facebook.com/profile.php?id=100010194910703) <br>
-                         &nbsp; &nbsp; * [Email-@mahmoudmiehob](mahmoudmiehob@gmail.com) <br>
-                         &nbsp; &nbsp; * [linkedIn-@mahmoudmiehob](https://www.linkedin.com/in/mahmoud-miehob-937064187) <br>
+>✔  I’m currently learning C# .. <br>
+✔  All of my projects are available at https://github.com/PoNexiOFF <br>
+✔  How to reach me: <br> &nbsp; &nbsp; * [Email](ponexi.mailpro@gmail.com) <br>
 ✔  Know about my experiences : https://www.linkedin.com/in/mahmoud-miehob-937064187 <br>
 
 
@@ -35,6 +30,6 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=holi" alt="Your GitHub Stats">
+   <img src="https://github-readme-stats.vercel.app/api?username=PoNexiOFF&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt="Your GitHub Stats">
   <br/>
 <br>
