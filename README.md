@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Games/App Developer, Front-End Novice Developer, Mastering javascript.
+Games/App Developer, Back-End Novice Developer, Mastering javascript.
 
 <!--- 🔭 I’m currently working on **[Your Project Name](#)**.-->
 - 🌱 I’m currently learning **[C#](#)**.
