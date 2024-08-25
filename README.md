@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel ultricies arcu. Aliquam erat volutpat. Phasellus vitae ornare ligula. Sed sed justo et ligula consequat ullamcorper in in tortor. Vivamus volutpat ligula ut eros tincidunt, a facilisis lectus commodo.
+Games/App Developer, Front-End Novice Developer, Mastering javascript.
 
 - 🔭 I’m currently working on **[Your Project Name](#)**.
 - 🌱 I’m currently learning **[Technology or Skill](#)**.
