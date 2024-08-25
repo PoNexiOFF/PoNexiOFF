@@ -5,7 +5,7 @@
 Games/App Developer, Front-End Novice Developer, Mastering javascript.
 
 <!--- 🔭 I’m currently working on **[Your Project Name](#)**.-->
-- 🌱 I’m currently learning **C#(#)**.
+- 🌱 I’m currently learning **[C#](#)**.
 - 📫 How to reach me: [ponexi.mailpro@gmail.com](mailto:ponexi.mailpro@gmail.com).
 
 ## 🛠️ Technologies & Tools
