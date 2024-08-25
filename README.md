@@ -4,11 +4,9 @@
 
 Games/App Developer, Front-End Novice Developer, Mastering javascript.
 
-- 🔭 I’m currently working on **[Your Project Name](#)**.
-- 🌱 I’m currently learning **[Technology or Skill](#)**.
-- 👯 I’m looking to collaborate on **[Type of Projects](#)**.
-- 💬 Ask me about **[Your Expertise or Interests](#)**.
-- 📫 How to reach me: [Your Email](mailto:youremail@example.com).
+<!--- 🔭 I’m currently working on **[Your Project Name](#)**.-->
+- 🌱 I’m currently learning **C#(#)**.
+- 📫 How to reach me: [ponexi.mailpro@gmail.com](mailto:ponexi.mailpro@gmail.com).
 
 ## 🛠️ Technologies & Tools
 
@@ -40,7 +38,7 @@ Games/App Developer, Front-End Novice Developer, Mastering javascript.
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/YourProfile)
+<!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/YourProfile)-->
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YourProfile)
 [![Website](https://img.shields.io/badge/-Website-FF7139?logo=firefox&logoColor=white&style=flat-square)](https://yourwebsite.com)
 
