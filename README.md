@@ -23,7 +23,7 @@
 ✔  All of my projects are available at https://github.com/PoNexiOFF <br>
 ✔  How to reach me: [ponexi.mailpro@gmail.com](mailto:ponexi.mailpro@gmail.com) <br>
 
-> ✎ Current Project: <br> &nbsp; &nbsp; * [QPCore (QuanterraProtectCore)](https://github.com/PoNexiOFF/QuanterraProtectCore) <br>
+> ✎ Current Project: <br> &nbsp; &nbsp; * [QPCore (QuanterraProtectCore)](https://github.com/QuanterraDynamics/QuanterraProtectCore) <br>
 &nbsp; &nbsp; * [School Calendar Website](https://github.com/PoNexiOFF/SchoolCalendarWebsite) (for fun) <br>
 
 > [![Discord](https://img.shields.io/badge/Join%20us%20on%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/U2GGSTQNzg)
