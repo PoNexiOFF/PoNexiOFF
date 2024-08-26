@@ -23,8 +23,8 @@
 ✔  All of my projects are available at https://github.com/PoNexiOFF <br>
 ✔  How to reach me: [ponexi.mailpro@gmail.com](mailto:ponexi.mailpro@gmail.com) <br>
 
-> ✎ Current Project: <br> &nbsp; &nbsp; * [School Calendar Website](https://github.com/PoNexiOFF/SchoolCalendarWebsite) (for fun) <br>
-&nbsp; &nbsp; * [QPCore (QuanterraProtectCore)](https://github.com/PoNexiOFF/QuanterraProtectCore) <br>
+> ✎ Current Project: <br> &nbsp; &nbsp; * [QPCore (QuanterraProtectCore)](https://github.com/PoNexiOFF/QuanterraProtectCore) <br>
+&nbsp; &nbsp; * [School Calendar Website](https://github.com/PoNexiOFF/SchoolCalendarWebsite) (for fun) <br>
 
 > [![Discord](https://img.shields.io/badge/Join%20us%20on%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/U2GGSTQNzg)
 
@@ -35,6 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoNexiOFF&repo=SchoolCalendarWebsite&theme=discord_old_blurple&border_color=00000000" alt="SchoolCalendarWebsite"/>
  </a>
  <a href="https://github.com/PoNexiOFF/SchoolCalendarWebsite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoNexiOFF&repo=QuanterraProtectCore&theme=discord_old_blurple&border_color=00000000" alt="QuanterraProtectCore"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuanterraDynamics&repo=QuanterraProtectCore&theme=discord_old_blurple&border_color=00000000" alt="QuanterraProtectCore"/>
  </a>
 </p>
