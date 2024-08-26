@@ -34,7 +34,7 @@
  <a href="https://github.com/PoNexiOFF/SchoolCalendarWebsite">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoNexiOFF&repo=SchoolCalendarWebsite&theme=discord_old_blurple&border_color=00000000" alt="SchoolCalendarWebsite"/>
  </a>
- <a href="https://github.com/PoNexiOFF/SchoolCalendarWebsite">
+ <a href="https://github.com/QuanterraDynamics/QuanterraProtectCore">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuanterraDynamics&repo=QuanterraProtectCore&theme=discord_old_blurple&border_color=00000000" alt="QuanterraProtectCore"/>
  </a>
 </p>
