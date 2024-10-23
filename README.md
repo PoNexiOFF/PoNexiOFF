@@ -19,7 +19,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
->✔  I’m currently learning C# .. <br>
+>✔  I’m currently learning JavaScript .. <br>
 ✔  All of my projects are available at https://github.com/PoNexiOFF <br>
 ✔  How to reach me: [ponexi.mailpro@gmail.com](mailto:ponexi.mailpro@gmail.com) <br>
 
