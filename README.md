@@ -1,3 +1,1 @@
-<div align="center">
-  <img width="1640" height="664" alt="Nouveau projet (5)" src="https://github.com/user-attachments/assets/35a9805f-297b-4071-a174-45794167cc41" />
-</div>
+<img width="1640" height="300" alt="github_banner" src="https://github.com/user-attachments/assets/ab505d5e-9c33-4f73-acdd-4ad3a6f0a724" />
